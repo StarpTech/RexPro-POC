@@ -1,2 +1,2 @@
 # RexPro-POC
-POC of Rexter Binary protocol RexPro with NodeJs
+Use Titan over Rexter (RexPro) with NodeJs
